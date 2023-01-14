@@ -15,7 +15,7 @@ npm install
 This will install the node modules from the package.json.
 
 ```sh
-npm install
+npm run dev
 ```
 
 This starts your app in development mode, rebuilding assets on file changes.
