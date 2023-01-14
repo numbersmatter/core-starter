@@ -16,7 +16,7 @@
 	// 	"description": "Log output to console"
 	// }
 	"React Component without Inteface": {
-		"prefix": "rcoi",
+		"prefix": "starter-route-page",
 		"body": [
 			"$0",
 			"",
